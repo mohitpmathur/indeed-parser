@@ -1,3 +1,4 @@
+# Parse indeed.com
 from bs4 import BeautifulSoup # For HTML parsing
 import urllib2 # Website connections
 import re # Regular expressions
